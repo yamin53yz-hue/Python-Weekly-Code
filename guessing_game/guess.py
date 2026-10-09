@@ -1,4 +1,4 @@
-secret_number = 55
+secret_number = 76
 
 while True:
     guess = int(input("Guess the number: "))
